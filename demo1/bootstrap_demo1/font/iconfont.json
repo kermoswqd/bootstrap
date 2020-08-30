@@ -1,0 +1,156 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15367",
+      "name": "下三角形",
+      "font_class": "xiasanjiaoxing",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "49654",
+      "name": "用户",
+      "font_class": "01",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "107870",
+      "name": "勾",
+      "font_class": "check",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "643731",
+      "name": "美元",
+      "font_class": "1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "742536",
+      "name": "google",
+      "font_class": "google",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "993786",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "1110401",
+      "name": "爱心",
+      "font_class": "aixin",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "1110403",
+      "name": "箭头 三角形",
+      "font_class": "jiantou1",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "1127398",
+      "name": "左箭头",
+      "font_class": "leftarrow",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "1127400",
+      "name": "右箭头",
+      "font_class": "rightarrow",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "1261851",
+      "name": "instagram",
+      "font_class": "instagram",
+      "unicode": "e6b6",
+      "unicode_decimal": 59062
+    },
+    {
+      "icon_id": "4294089",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e78e",
+      "unicode_decimal": 59278
+    },
+    {
+      "icon_id": "5979984",
+      "name": "汉堡菜单折叠",
+      "font_class": "hanbaocaidanzhedie",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "6251508",
+      "name": "icon_三角形",
+      "font_class": "icon_sanjiaoxing",
+      "unicode": "e6bb",
+      "unicode_decimal": 59067
+    },
+    {
+      "icon_id": "8620090",
+      "name": "pinterest",
+      "font_class": "pinterest",
+      "unicode": "e7a8",
+      "unicode_decimal": 59304
+    },
+    {
+      "icon_id": "9668381",
+      "name": "youxiang",
+      "font_class": "youxiang",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "11981609",
+      "name": "facebook",
+      "font_class": "facebook",
+      "unicode": "e953",
+      "unicode_decimal": 59731
+    },
+    {
+      "icon_id": "11983520",
+      "name": "twitter",
+      "font_class": "twitter",
+      "unicode": "ea07",
+      "unicode_decimal": 59911
+    },
+    {
+      "icon_id": "12687172",
+      "name": "铃",
+      "font_class": "icon-",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "12924197",
+      "name": "购物袋",
+      "font_class": "gouwudai",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "15685567",
+      "name": "三角形",
+      "font_class": "sanjiaoxing",
+      "unicode": "e6e6",
+      "unicode_decimal": 59110
+    }
+  ]
+}
